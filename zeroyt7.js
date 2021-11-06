@@ -3,10 +3,10 @@
 //MAAF BASE NYA JELEK
 
 //FOLLOW ALL SOSIAL MEDIAML ME
-//YOUTUBE : Zero YT7
-//INSTAGRAM : @Zero_YT7
-//TIKTOK : @_zeroyt7
-//GITHUB : Zero-YT7
+//YOUTUBE : caca BOT
+//INSTAGRAM : @suranta_smbr_
+//TIKTOK : @caca BOT
+//GITHUB : aanta store
 
 let { fetchJosn, kyun, fetchText } = require('./lib/fetcher')
 let { color, bgcolor } = require('./lib/color')
@@ -439,7 +439,7 @@ timestamp = speed();
 				latensi = speed() - timestamp
                   	teks =
 `┏━➤ *INFO BOT* 
-*┃┃* Creator Bot : Zero YT7
+*┃┃* Creator Bot : caca BOT
 *┃┃* Nama Owner : ${ownername}
 *┃┃* Nama Bot : ${botname}
 *┃┃* Prefix : Multi Prefix
@@ -457,7 +457,7 @@ timestamp = speed();
           { buttonId: `${prefix}owner`, buttonText: { displayText: '☰ OWNER' }, type: 1 },
           { buttonId: `${prefix}sc`, buttonText: { displayText: '☰ SCRIPT' }, type: 1 }
         ]
-        sendButton(from, teks, '©Created : Zero YT7', but, mek)
+        sendButton(from, teks, '©Created : caca BOT', but, mek)
 break
 	
 //━━━━━━━━━━━━━━━[ FITUR GROUP ]━━━━━━━━━━━━━━━━━//
